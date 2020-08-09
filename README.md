@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phlzy?theme=THEME_NAMEonedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phlzy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
