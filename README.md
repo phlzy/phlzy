@@ -2,11 +2,12 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phlzy&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://phlzy.github.io/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=phlzy&repo=phlzy.github.io" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+
+<a href="https://github.com/phlzy/Code-Repository">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=phlzy&repo=Code-Repository" />
 </a>
 
 <!--
