@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phlzy&layout=compact)](https://github.com/phlzy)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phlzy&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phlzy&hide=prs)](https://github.com/phlzy)
 
 
 
